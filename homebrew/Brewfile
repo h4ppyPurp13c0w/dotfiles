@@ -5,6 +5,8 @@
 brew "nvim"
 brew "fzf"
 brew "eza"
+brew "fortune"
+brew "cowsay"
 
 # 'brew install --cask'
 cask "firefox@developer-edition"
