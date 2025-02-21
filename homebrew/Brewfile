@@ -1,0 +1,10 @@
+# 'brew tap'
+#tap "homebrew/cask"
+
+# 'brew install'
+brew "nvim"
+brew "fzf"
+brew "eza"
+
+# 'brew install --cask'
+cask "firefox@developer-edition"
